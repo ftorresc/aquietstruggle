@@ -5,3 +5,8 @@ A Quiet Struggle is a text-based, interactive game built using [Twine 2.0](https
 
 ## Why use Twine?
 The choice of Twine (and text-based interactive storytelling in general) was made by the opportunities this technology brings forward. First of all, its' non-linear, choice-based structure allows the player to explore the psyche of the character as well as understand how small choices can echo later on. This kind of game philosophy adapts itself very well to the topic of mental health, where patients (or people dealing with patients in their lives) are sometimes unaware of the repercussions of simple actions. Furthermore, Twine is an open-source tool that has been gaining traction within the independent game development community due to it's simplicity and capacity to allow anyone to create their own game and tell their own story.
+
+## Useful links
+[Twine Cookbook](https://twinery.org/cookbook/)
+
+[Twine wiki](https://twinery.org/wiki/)
