@@ -1,5 +1,6 @@
 # A Quiet Struggle
 Project for "Développement de jeux vidéo 2D" course by [Isaac Pante](https://github.com/ipante) at UNIL in the spring of 2020.
+
 A Quiet Struggle is a text-based, interactive game built using [Twine 2.0](https://twinery.org/), under its Harlowe format. Seeking to associate different aspects of culture and art, this particular project attempts to simulate a human experience as its main goal. More specifically, A Quiet Struggle attempts to exteriorize aspects of mental health such as depression and anxiety by putting the player in the shoes of a character struggling to live his life because of these disorders. 
 
 ## Why use Twine?
