@@ -25,13 +25,19 @@ tw-link {
 tw-link:hover {
 color:#821E28;
 }
-</style><script role="script" id="twine-user-script" type="text/twine-javascript">function foo(){
-	audio.src = 'media/lost_life.mp3'
+</style><script role="script" id="twine-user-script" type="text/twine-javascript">function foo2(){
+audio.src = 'media/the_tears_of_an_anguished_soul.mp3'
+audio.play()
+};
+
+function foo(){
+	audio.src = 'media/autumnal_suicide.mp3'
 	audio.play()
+	audio.addEventListener('ended', foo2);
 };
 
 var audio = document.createElement('audio');
-audio.src= 'media/autumnal_suicide.mp3'; 'media/lost_life.mp3';'media/the_tears_of_an_anguished_soul';
+audio.src= 'media/lost_life.mp3'; 
 console.log(audio.src)
 audio.ended
 document.body.addEventListener("mousemove", function () {
@@ -181,7 +187,7 @@ You chuckle. You want to say no, you want to find a million excuses not to go bu
 &quot;Sure, I&#39;m on my way&quot;
 
 &lt;hr&gt;
-[[Go in&lt;- Go back]] </tw-passagedata><tw-passagedata pid="12" name="Ignore" tags="" position="779,976" size="100,100">&lt;==&gt;
+[[Go in&lt;- Go back]] </tw-passagedata><tw-passagedata pid="12" name="Ignore" tags="" position="780,976" size="100,100">&lt;==&gt;
 What a slap in the face. Looking at the call from Justine was like facing your own failures. You dash your phone across the street, shattering it into a few dozen pieces. Good riddance. Something had changed, something else had broken. You rise and continue walking towards the bridge overtop Kirburg Canal.
 When you reach it, you can witness the banks of the river. The same river banks where hundreds of years ago people first gathered, into what would eventually become the town you now inhabit. 
 &quot;Everything seems so small from up here&quot; you think.
