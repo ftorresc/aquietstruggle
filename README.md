@@ -12,7 +12,7 @@ The choice of Twine (and text-based interactive storytelling in general) was mad
 
 ## Installation
 
-In order to play the game, simply download clone the repository and open the file `A Quiet Struggle.html` with the browser of your choice. The story has been created with specific tracks in mind. For copyright reasons the files have been replaced by silent tracks provided by [Anars](https://github.com/anars/blank-audio). The used tracks are:
+In order to play the game, simply clone the repository and open the file `A Quiet Struggle.html` with the browser of your choice. The story has been created with specific tracks in mind. For copyright reasons the files have been replaced by silent tracks provided by [Anars](https://github.com/anars/blank-audio). The used tracks are:
 
 - [Autumnal Suicide (Instrumental)](https://www.youtube.com/watch?v=XiI02ChEGa0) by Worthless Life
 
